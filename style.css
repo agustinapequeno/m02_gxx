@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Urbanist&display=swap');
+
+body {background-color: lightpink;
+	margin-left: 100px; 
+	margin-top: 50px; 
+	font-family: 'Urbanist', sans-serif;}
+
+.heading {background-color: cadetblue;}
+h1 {font-family: 'Homemade Apple', cursive; color: white}
+
+.principal 
+img {float: left;}
+/*esto lo saqué de https://www.w3schools.com/css/css_float.asp*/
+
+.secundario {width: 200px; display: inline-block; padding: 10px} 
+h2 {font-family: 'Homemade Apple', cursive; color: cadetblue}
+
+.intereses {width: 300px; display: inline-block; padding: 10px}
+h2 {font-family: 'Homemade Apple', cursive; color: cadetblue}
+
+.habilidades {width: 300px; display: inline-block; padding: 10px}
+h2 {font-family: 'Homemade Apple', cursive; color: cadetblue}
+
+.académico {width: 848px; display: inline-block; padding: 20px}
+h2 {font-family: 'Homemade Apple', cursive; color: cadetblue}
+
+
+.trabajos {background-color: black; padding: 10px}
+h3 {font-family: 'Homemade Apple', cursive; color: white;}
+
+
+footer 
+.footer {background-color: cadetblue;}
+h3 {font-family: 'Homemade Apple', cursive; color: white; height: 25px}
+p {color: white}
